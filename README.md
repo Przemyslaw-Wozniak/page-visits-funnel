@@ -1,4 +1,4 @@
-# ### Project summary
+# Project summary
 
 The goal of this project is to analyze data on visits to fast fashion website. Here, we build a funnel, which is a description of how many people continue to the next step of a multi-step process.
 
